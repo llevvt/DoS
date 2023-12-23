@@ -1,4 +1,4 @@
-#!/Users/llevvt/PycharmProjects/DoS/venv/bin/python3
+#!/bin/bash
 
 from management.input_handler import Input
 from management.packet import Packet
